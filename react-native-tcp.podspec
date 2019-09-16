@@ -15,7 +15,10 @@ Pod::Spec.new do |s|
   s.osx.deployment_target = '10.10'
 
   s.preserve_paths = 'README.md', 'LICENSE', 'package.json'
-  s.source_files   = "ios/*"
+
+  s.source_files   = "ios/**/*.{h,m}"
+
+
 
   s.dependency 'React'
 end
