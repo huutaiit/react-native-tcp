@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml:4:22-64
+uses-sdk
+INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Data/Projects/Mobile/findviet/Mobile/EcoNew/node_modules/react-native-tcp/android/src/main/AndroidManifest.xml
